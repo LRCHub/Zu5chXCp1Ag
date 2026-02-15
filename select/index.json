@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "(Sittin' On) the Dock of the Bay",
+  "base_artist": "Otis Redding",
+  "createdAt": "2026-02-15T12:33:27.650522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Sittin' on) The dock of the bay",
+      "artist": "Bertignac",
+      "has_synced": true,
+      "path": "select/01_(Sittin'_on)_The_dock_of_the_bay_Bertignac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/02_(Sittin'_On)_The_Dock_Of_The_Bay_Sting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock of the Bay",
+      "artist": "Michael Bolton",
+      "has_synced": true,
+      "path": "select/03_(Sittin'_On)_The_Dock_of_the_Bay_Michael_Bolton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Sittin' On) the Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/04_(Sittin'_On)_the_Dock_of_the_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/05_(Sittin'_On)_The_Dock_of_the_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/06_(Sittin'_On)_The_Dock_Of_The_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock of the Bay",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/07_(Sittin'_On)_The_Dock_of_the_Bay_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(Sittin' On) the Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/08_(Sittin'_On)_the_Dock_of_the_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Sittin’ on) The Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/09_(Sittin’_on)_The_Dock_of_the_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock of the Bay",
+      "artist": "Aaron Neville",
+      "has_synced": true,
+      "path": "select/10_(Sittin'_On)_The_Dock_of_the_Bay_Aaron_Neville.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Suzi Quatro",
+      "has_synced": true,
+      "path": "select/11_(Sittin'_On)_The_Dock_Of_The_Bay_Suzi_Quatro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Quatro, Suzi",
+      "has_synced": true,
+      "path": "select/12_(Sittin'_On)_The_Dock_Of_The_Bay_Quatro,_Suzi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Sittin’ On) The Dock of the Bay",
+      "artist": "Waylon & Willie",
+      "has_synced": false,
+      "path": "select/13_(Sittin’_On)_The_Dock_of_the_Bay_Waylon_&_Willie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/14_(Sittin'_On)_The_Dock_Of_The_Bay_VA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Sittin' On) the Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/15_(Sittin'_On)_the_Dock_of_the_Bay_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Sittin’ on) The Dock of the Bay",
+      "artist": "Michael Bolton",
+      "has_synced": true,
+      "path": "select/16_(Sittin’_on)_The_Dock_of_the_Bay_Michael_Bolton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Soundtrack",
+      "has_synced": true,
+      "path": "select/17_(Sittin'_On)_The_Dock_Of_The_Bay_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "(Sittin' on) The Dock of the Bay",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/18_(Sittin'_on)_The_Dock_of_the_Bay_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(Sittin' On) The Dock of the Bay",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/pl_01_(Sittin'_On)_The_Dock_of_the_Bay_Otis_Redding.txt"
+    }
+  ]
+}
